@@ -1,0 +1,6 @@
+com\wowo\SpringBoot.class
+com\wowo\service\DepService.class
+com\wowo\web\DepController.class
+com\wowo\entity\Dep.class
+com\wowo\mapper\DepMapper.class
+com\wowo\entity\PageResult.class
